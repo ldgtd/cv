@@ -8,4 +8,4 @@ email: "ludovic.turmel@gmail.com"
 
 # Build settings
 markdown: kramdown
-exclude: [node_modules, gulp-config.json, Gulpfile.js, package.json, webpack-config.js]
+exclude: [node_modules, gulp-config.json, Gulpfile.js, package.json, webpack-config.js, package-lock.json, README.md]
